@@ -1,0 +1,5 @@
+- To convert .dox to pdf:
+
+install // sudo apt install unoconv
+
+replace xxyy with the name of doc // unoconv -f pdf XXYY.docx
