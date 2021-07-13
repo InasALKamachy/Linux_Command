@@ -1,0 +1,7 @@
+1- Go to this link and download the software
+https://github.com/FaisalUmair/udemy-...
+2- after download open download folder and open terminal then type:
+
+1. cd Downloads/
+2. chmod a+x filename.AppImage
+after that the window will open just login to udemy account and download the courses. 
